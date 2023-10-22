@@ -30,4 +30,4 @@
 
 软件包内的Clash是64位，如果是32位的系统请前往github下载32位版本的Clash
 
-## 转载自[不良林的频道](https://www.youtube.com/channel/UCbCCUH8S3yhlm7__rhxR2QQ)
+## [不良林的频道](https://www.youtube.com/channel/UCbCCUH8S3yhlm7__rhxR2QQ)
